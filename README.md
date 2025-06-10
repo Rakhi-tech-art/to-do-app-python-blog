@@ -16,6 +16,10 @@ This project helped me understand:
 - Command-line interface
 - Beginner-friendly and simple code
 
+✍️ Read the Full Blog
+➡️ https://simple-to-do-app-using-python.hashnode.dev/
+
+
 ---
 
 ## 💻 How to Run
